@@ -206,14 +206,13 @@ La comunicación entre el frontend y backend se realiza mediante una **API REST*
 
 El objetivo de NEXTFEED es desarrollar una plataforma social moderna que permita demostrar conocimientos prácticos en **desarrollo Full Stack, APIs REST, autenticación, bases de datos, seguridad y despliegue mediante Docker**.
 
-🔗 **Repositorio:** https://github.com/danielopez98/POSTI
+🔗 **Ver Repositorio:** https://github.com/danielopez98/POSTI
 
 
 **Tecnologías:**
 
 `API REST` `MongoDB` `Docker` `JWT` `JavaScript`
 
-🔗 [Ver repositorio](#)
 
 ---
 
