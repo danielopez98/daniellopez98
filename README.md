@@ -141,19 +141,73 @@ Aplicación de escritorio desarrollada en Python para ejecutar y gestionar consu
 
 ---
 
-## 📱 NEXTFEED
+## ## 📱 NEXTFEED — Social Network Platform
 
-Proyecto de aplicación social enfocado en la creación de una plataforma moderna para compartir contenido e interactuar con otros usuarios.
+**NEXTFEED** es una plataforma social Full Stack desarrollada para ofrecer una experiencia moderna de interacción entre usuarios, permitiendo compartir contenido y gestionar diferentes funcionalidades mediante una arquitectura web escalable y segura.
 
-### Características
+### 🚀 Características
 
-* 👤 Usuarios
-* 🔐 Autenticación
-* 📝 Publicaciones
-* 💬 Interacciones
-* 🔌 API REST
-* 🗄️ MongoDB
-* 🐳 Docker
+* 👤 Gestión y autenticación de usuarios
+* 🔐 Autenticación segura mediante JWT
+* 🔑 Roles y permisos
+* 📝 Creación y gestión de publicaciones
+* 💬 Interacción entre usuarios
+* 🔔 Sistema de notificaciones
+* 🗄️ Persistencia de información con MongoDB
+* 🔌 API REST para comunicación entre frontend y backend
+* 🛡️ Implementación de medidas de seguridad
+* 🐳 Contenedores mediante Docker
+* 📊 Dashboard para gestión de información
+* 📱 Diseño adaptable para diferentes dispositivos
+
+### 🛠️ Tecnologías
+
+**Frontend**
+
+* React
+* Next.js
+* JavaScript
+* HTML5
+* CSS3
+
+**Backend**
+
+* Node.js
+* Express
+* REST API
+* JWT
+
+**Base de datos**
+
+* MongoDB
+* Mongoose
+
+**Herramientas**
+
+* Docker
+* Git
+* GitHub
+
+### 🏗️ Arquitectura
+
+El proyecto utiliza una arquitectura Full Stack separando las responsabilidades principales entre:
+
+```text
+NEXTFEED/
+├── frontend/
+├── backend/
+├── database/
+└── docker/
+```
+
+La comunicación entre el frontend y backend se realiza mediante una **API REST**, permitiendo mantener una estructura organizada, escalable y preparada para futuras funcionalidades.
+
+### 🎯 Objetivo
+
+El objetivo de NEXTFEED es desarrollar una plataforma social moderna que permita demostrar conocimientos prácticos en **desarrollo Full Stack, APIs REST, autenticación, bases de datos, seguridad y despliegue mediante Docker**.
+
+🔗 **Repositorio:** https://github.com/danielopez98/POSTI
+
 
 **Tecnologías:**
 
@@ -204,7 +258,7 @@ Mi objetivo es incorporarme a un equipo de desarrollo donde pueda aplicar mis co
 
 Si quieres hablar conmigo sobre oportunidades laborales, proyectos o tecnología:
 
-📧 **Email:** `TU_CORREO`
+📧 **Email:** `dany5seg@gmail.com`
 
 💼 **LinkedIn:** [Mi perfil de LinkedIn](#)
 
